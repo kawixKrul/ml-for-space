@@ -1,0 +1,29 @@
+[
+  {
+    "terrain": "Forest",
+    "center_lon": -122.1,
+    "center_lat": 47.53,
+    "column": 2749,
+    "row": 2321,
+    "width": 256,
+    "height": 256
+  },
+  {
+    "terrain": "Urban",
+    "center_lon": -122.32,
+    "center_lat": 47.61,
+    "column": 1085,
+    "row": 1449,
+    "width": 256,
+    "height": 256
+  },
+  {
+    "terrain": "Water",
+    "center_lon": -122.44,
+    "center_lat": 47.68,
+    "column": 178,
+    "row": 678,
+    "width": 256,
+    "height": 256
+  }
+]

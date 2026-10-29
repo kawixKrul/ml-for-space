@@ -1,0 +1,14 @@
+{
+  "item": "S2B_10TET_20240829_0_L2A",
+  "source": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_10TET_20240829_0_L2A",
+  "asset": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/10/T/ET/2024/8/S2B_10TET_20240829_0_L2A/TCI.tif",
+  "acquired": "2024-08-29",
+  "bbox_wgs84": [
+    -122.48,
+    47.48,
+    -122.06,
+    47.75
+  ],
+  "credit": "Contains modified Copernicus Sentinel data (2024); distributed via Earth Search / AWS Open Data",
+  "notes": "One georeferenced RGB subset at native 10 m; display-scaled TCI, not raw spectral reflectance."
+}
